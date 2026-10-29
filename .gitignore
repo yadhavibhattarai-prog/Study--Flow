@@ -1,0 +1,5 @@
+.venv/
+studyflow.data.json
+studyflow_data.json.bak
+__pycache__/
+.pytest_cache/

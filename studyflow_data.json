@@ -1,0 +1,17 @@
+{
+    "subjects": [
+        {
+            "name": "Mathematics",
+            "id": "5b14c2ea-20ba-46e6-9c2c-4c1f3a9271d8"
+        },
+        {
+            "name": "Biology",
+            "id": "a63e8f74-f4be-48bd-9932-85ad7e02c61f"
+        }
+    ],
+    "topics": [],
+    "sessions": [],
+    "revisions": [],
+    "exams": [],
+    "goals": []
+}
